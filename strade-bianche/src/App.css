@@ -1,0 +1,28 @@
+.Full-main-header {
+  background-color: green;
+  height: 77px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Full-main-left {
+  background-color: red;
+  height: calc(100vh - 77px);
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Full-main-right {
+  background-color: #f7e2c7;
+
+  height: calc(100vh - 77px);
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
